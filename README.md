@@ -1,2 +1,15 @@
-# CFS-Scheduling-Project
-CPU Scheduling using CFS in C
+# CPU Scheduling using CFS
+
+This project implements Completely Fair Scheduler (CFS) in C.
+
+## Features
+- Fair CPU scheduling using vruntime
+- Gantt Chart generation
+- Process table (CT, TAT, WT)
+
+## Technologies Used
+- C Programming
+- Linux
+
+## Author
+- Your Name
