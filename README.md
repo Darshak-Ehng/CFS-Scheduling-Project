@@ -12,4 +12,4 @@ This project implements Completely Fair Scheduler (CFS) in C.
 - Linux
 
 ## Author
-- Your Name
+- Ashish & Darshak 
